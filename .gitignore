@@ -8,3 +8,7 @@
 
 # Vagrant
 /.vagrant/
+
+# Pipfile
+Pipfile
+Pipfile.lock

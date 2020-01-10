@@ -1,0 +1,5 @@
+[kong]
+rpkong ansible_host=52.47.101.46
+
+[kong:vars]
+ansible_user=ubuntu
